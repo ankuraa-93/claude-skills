@@ -1,4 +1,4 @@
-# Claude Code Plugins by Ankur Agarwal
+# Claude Code Skills by Ankur Agarwal
 
 A plugin marketplace for Claude Code with productivity and creative tools.
 
@@ -20,8 +20,8 @@ Add this marketplace to Claude Code:
 Then install the plugins you want:
 
 ```
-/plugin install gmail-cleanup-skill@ankuraa-93-plugins
-/plugin install gemini-image-gen@ankuraa-93-plugins
+/plugin install gmail-cleanup-skill
+/plugin install gemini-image-gen
 ```
 
 ## Usage
