@@ -14,7 +14,7 @@ A plugin marketplace for Claude Code with productivity and creative tools.
 Add this marketplace to Claude Code:
 
 ```
-/plugin marketplace add ankuraa-93/claude-plugins-marketplace
+/plugin marketplace add ankuraa-93/claude-skills
 ```
 
 Then install the plugins you want:
