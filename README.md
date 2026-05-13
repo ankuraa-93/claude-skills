@@ -29,6 +29,6 @@ Then install the plugins you want:
 After installation, invoke the skills:
 
 ```
-/gmail-cleanup-skill:gmail-cleanup
-/gemini-image-gen:image-gen
+/gmail-cleanup-skill:run
+/gemini-image-gen:run
 ```
