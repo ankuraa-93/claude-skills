@@ -6,7 +6,7 @@ A plugin marketplace for Claude Code with productivity and creative tools.
 
 | Plugin | Description |
 |--------|-------------|
-| **gmail-cleanup-skill** | Gmail inbox cleanup — scan, classify senders, bulk trash, create filters, and auto-unsubscribe |
+| **gmail-cleanup** | Gmail inbox cleanup — scan, classify senders, bulk trash, create filters, and auto-unsubscribe |
 | **gemini-image-gen** | Image generation using Google Gemini — prompt crafting, style management, and iterative refinement |
 
 ## Installation
@@ -20,7 +20,7 @@ Add this marketplace to Claude Code:
 Then install the plugins you want:
 
 ```
-/plugin install gmail-cleanup-skill
+/plugin install gmail-cleanup
 /plugin install gemini-image-gen
 ```
 
@@ -29,6 +29,6 @@ Then install the plugins you want:
 After installation, invoke the skills:
 
 ```
-/gmail-cleanup-skill:run
+/gmail-cleanup:run
 /gemini-image-gen:run
 ```

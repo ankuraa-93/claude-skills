@@ -7,10 +7,10 @@
   },
   "plugins": [
     {
-      "name": "gmail-cleanup-skill",
+      "name": "gmail-cleanup",
       "source": {
         "source": "github",
-        "repo": "ankuraa-93/gmail-cleanup-skill"
+        "repo": "ankuraa-93/gmail-cleanup"
       },
       "description": "Gmail inbox cleanup — scan, classify senders, bulk trash, create filters, and auto-unsubscribe using the Google Workspace CLI",
       "category": "productivity",
