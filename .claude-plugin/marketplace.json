@@ -1,0 +1,30 @@
+{
+  "name": "ankuraa-93-plugins",
+  "description": "Claude Code plugins by Ankur Agarwal — Gmail cleanup and Gemini image generation skills",
+  "owner": {
+    "name": "Ankur Agarwal",
+    "email": "ankuraa.93@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "gmail-cleanup-skill",
+      "source": {
+        "source": "github",
+        "repo": "ankuraa-93/gmail-cleanup-skill"
+      },
+      "description": "Gmail inbox cleanup — scan, classify senders, bulk trash, create filters, and auto-unsubscribe using the Google Workspace CLI",
+      "category": "productivity",
+      "tags": ["gmail", "email", "cleanup", "google-workspace"]
+    },
+    {
+      "name": "gemini-image-gen",
+      "source": {
+        "source": "github",
+        "repo": "ankuraa-93/gemini-image-gen"
+      },
+      "description": "Image generation using Google Gemini — intelligent prompt crafting, style management, session-based refinement, and multi-image sets",
+      "category": "creative",
+      "tags": ["image-generation", "gemini", "ai", "design"]
+    }
+  ]
+}
